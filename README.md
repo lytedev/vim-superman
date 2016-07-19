@@ -1,3 +1,7 @@
+# Why this fork?
+
+I forked the original `vim-superman` because I didn't want line numbers and it was hardcoded in.
+
 # Vim SuperMan
 
 Read Unix `man` pages faster than a speeding bullet!
